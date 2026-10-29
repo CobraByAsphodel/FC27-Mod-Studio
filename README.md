@@ -1,6 +1,6 @@
 # 🧬 FC27-Mod-Studio
 
-<img width="320" height="180" alt="image" src="https://github.com/user-attachments/assets/612c2fe0-00ab-4134-a532-1449f9db13bc" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/a719ba55-393b-48e6-b416-8365980d295e" />
 
 
 <p align="center">
